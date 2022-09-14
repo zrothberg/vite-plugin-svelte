@@ -1,5 +1,13 @@
 # @sveltejs/vite-plugin-svelte
 
+## 1.1.0
+
+### Minor Changes
+
+- svelte-inspector: use arrow up/down to allow selecting parent/child elements that cannot be moused over (see [#435](https://github.com/sveltejs/vite-plugin-svelte/issues/435)) ([#436](https://github.com/sveltejs/vite-plugin-svelte/pull/436))
+
+- svelte-inspector: display active element tag ([#436](https://github.com/sveltejs/vite-plugin-svelte/pull/436))
+
 ## 1.0.5
 
 ### Patch Changes
